@@ -6,6 +6,7 @@ class pyramidstar {
             int b=0;
             for(b=0;b<a;b++){
                 System.out.print(" ");
+                
             }
             for (int j=b;j<5;j++){
                 System.out.print(" * ");
